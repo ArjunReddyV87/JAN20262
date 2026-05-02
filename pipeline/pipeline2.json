@@ -29,7 +29,8 @@
 					"dataset": {
 						"referenceName": "DS_EMP",
 						"type": "DatasetReference"
-					}
+					},
+					"firstRowOnly": false
 				}
 			}
 		],
