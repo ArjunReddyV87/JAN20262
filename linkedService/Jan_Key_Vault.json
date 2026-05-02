@@ -1,0 +1,11 @@
+{
+	"name": "Jan_Key_Vault",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://jan2026-kv.vault.azure.net/"
+		}
+	}
+}
