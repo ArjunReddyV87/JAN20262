@@ -30,7 +30,7 @@
 						"referenceName": "DS_EMP",
 						"type": "DatasetReference"
 					},
-					"firstRowOnly": false
+					"firstRowOnly": true
 				}
 			}
 		],
